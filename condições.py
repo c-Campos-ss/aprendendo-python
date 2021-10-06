@@ -23,7 +23,7 @@ sleep(3)
 #  Calculando nota do bimestre:
 
 # Suponhamos que a média de uma escola é 6.
-# E o sistema funciona assim: ele pega a nota do seu teste, trabalho e prova, e divide tudo por 2, se no final der >= 6 sua nota é azul.
+# E o sistema funciona assim: ele pega a nota do seu teste, trabalho e prova, e divide tudo por 3, se no final der >= 6 sua nota é azul.
 
 nota_1 = int(input('Digite sua nota no teste: '))  # Recebe a nota do teste.
 nota_2 = int(input('Digite sua nota no trabalho: ')) # Recebe a nota do trabalho.
