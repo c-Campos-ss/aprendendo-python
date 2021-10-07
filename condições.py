@@ -12,8 +12,8 @@ from time import sleep
 
 ' >>>> Exemplo utilizando o len e listas. <<<< '
 
-testes = ['Matemática', 'Sociologia', 'Redação'] # Uma lista com os testes de hoje. (segunda-feira)
-print(f'Ainda hoje, você terá que fazer {len(testes)} avaliações.') # Imprime a quantidade de testes que você terá que fazer hoje. (segunda-feira)
+testes = ['Matemática', 'Sociologia', 'Redação'] # Uma lista com as matérias do teste.
+print(f'Ainda hoje, você terá que fazer {len(testes)} avaliações.') # Imprime, por meio do Len, a quantidade de testes que você terá que fazer hoje. 
 print('')
 
 sleep(3)
